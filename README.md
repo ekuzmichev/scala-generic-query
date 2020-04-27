@@ -1,0 +1,1 @@
+Generic representation of query(fillter) that supports basic operands (and, or, not, in, eq, ...)
